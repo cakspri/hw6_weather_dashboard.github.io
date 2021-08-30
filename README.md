@@ -14,7 +14,7 @@ When a valid city name is entered, the name is saved as part of a search history
 
 A user story and acceptance criteria were provided, but no starter code was given.
 
-:link: [Weather Dashboard Website](https://angelicamapeso.github.io/bootcamp-weather-dashboard/)
+[Weather Dashboard Website](https://cakspri.github.io/hw6_weather_dashboard.github.io/)
 
 ## Purpose
 
